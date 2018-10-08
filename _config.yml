@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: World of Vape|The Sims Times
 subtitle:
-description:
+description: Be brave. Take risks. Nothing can substitute experience. - Paulo Coelho
 keywords:
-author: John Doe
+author: The Sims Times
 language:
 timezone:
 
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: solar
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

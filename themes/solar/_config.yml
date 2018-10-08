@@ -1,10 +1,9 @@
 nav:
-  Home: /home/
+  Home: /
   About: /about/
-  Writing: /archives/
-  Projects: http://github.com/tzvetkov75
+  Archives: /archives/
 
-projects_url: http://github.com/tzvetkov75
+projects_url: /
 
 customize:
     gravatar:
@@ -13,24 +12,24 @@ customize:
         enabled: true
         width: 50
         height: 50
-        url: /images/logo.png
+        url: /images/logo.jpg
         gravatar: false
     favicon: 
       # eg. generate with http://realfavicongenerator.net/
       desktop:
-        url: /images/favicon.ico
+        url: /images/favicon.png
         gravatar: false
       android:
-        url: /images/favicon-192x192.png
+        url: /images/favicon.png
         gravator: false
       apple:
-        url: /images/apple-touch-icon.png
+        url: /images/favicon.png
         gravator: false
-    social_links:
-        github: https://github.com/tzvetkov75/solar-theme-hexo
-        twitter: /
-        facebook: /
-        linkedin: /
+    social_links: false
+        #github: /
+        #twitter: /
+        #facebook: /
+        #linkedin: /
     post_count: 5
     highlight: lightcode
 
