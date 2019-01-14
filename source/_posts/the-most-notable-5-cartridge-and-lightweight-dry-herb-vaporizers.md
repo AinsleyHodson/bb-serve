@@ -1,7 +1,7 @@
 ---
 title: The Most Notable 5 Cartridge And Lightweight Dry Herb Vaporizers
 date: 2018-9-21 10:00:00
-category: Vaporizer Top 5
+category: vaporizer top 5
 tags:
 	- herb vape
 	- top vape

@@ -1,7 +1,7 @@
 ---
 title: The Very Best 5 Pod Vaporizers
 date: 2018-9-30 08:20:00
-category: Vaporizer Top 5
+category: vaporizer top 5
 tags:
 	- starter kit
 	- mine vape

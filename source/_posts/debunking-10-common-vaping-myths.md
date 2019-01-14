@@ -1,7 +1,7 @@
 ---
 title: Debunking 10 Common Vaping Myths
 date: 2018-9-04 15:00:00
-category: Recent Post
+category: recent post
 tags:
 	- myths
 ---

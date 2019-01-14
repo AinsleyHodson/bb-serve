@@ -1,7 +1,7 @@
 ---
 title: G-PRIV and S-PRIV Mod Kits
 date: 2018-8-28 14:55:00
-category: Box Mod Vape
+category: box mod vape
 tags:
 	- starter kit
 	- brand

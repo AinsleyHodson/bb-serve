@@ -1,7 +1,7 @@
 ---
 title: What Exactly Are Mini Vaporizers
 date: 2018-9-13 10:45:00
-category: Vaping Guide
+category: vaping guide
 tags:
 	- mini vape
 ---

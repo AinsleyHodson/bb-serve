@@ -1,7 +1,7 @@
 ---
 title: Avoiding Common Dry Herb Vaporizer Mistakes
 date: 2018-9-25 07:25:00
-category: Vaping Guide
+category: vaping guide
 tags:
 	- herb vape
 ---

@@ -1,7 +1,7 @@
 ---
 title: 5 Mostly Made and Broken 
 date: 2018-8-27 11:35:00
-category: Recent Post
+category: recent post
 tags:
 	- brand
 ---

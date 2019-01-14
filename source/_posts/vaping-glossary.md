@@ -1,7 +1,7 @@
 ---
 title: Vaping Glossary
 date: 2018-9-15 09:30:00
-category: Vaping Text
+category: vaping text
 tags:
 	- glossary
 	- terms
